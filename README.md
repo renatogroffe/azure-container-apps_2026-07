@@ -31,3 +31,12 @@ Dashboards with Grafana:
 Resultados em dashboard do Grafana:
 
 ![Dashboards with Grafana 2](img/grafana-02.png)
+
+Dashboard do Grafana no Azure DevOps, após execução de testes de carga com k6:
+
+![Resultados do k6 1](img/azure-devops-01.png)
+
+
+Resumo com métricas após execução de testes de carga com k6:
+
+![Resultados do k6 2](img/azure-devops-02.png)
