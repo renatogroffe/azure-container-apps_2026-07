@@ -13,6 +13,10 @@ Imagem (**docker.io**):
 renatogroffe/aspnetcore10-apicontagem-simulacaofalhas:1
 ```
 
+Aplicação utilizada nos testes: **https://github.com/renatogroffe/aspnetcore10-minimalapis-appinsights-otel-scalar_contagemacessos-simulacaofalhas**
+
+Pipeline para execução de testes do k6: **https://github.com/renatogroffe/k6-loadtests-azuredevops-api-html-dashboard**
+
 Environment Variables:
 
 | Variável | Valor |
