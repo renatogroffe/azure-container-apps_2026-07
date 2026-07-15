@@ -1,13 +1,15 @@
 # azure-container-apps_2026-07
-Alguns conteúdos envolvendo novidades ao trabalhar com Azure Container App (Julho-2026).
+Alguns conteúdos envolvendo novidades ao se trabalhar com Azure Container Apps (Junho e Julho-2026).
 
 Novo Portal do Azure Container Apps: **https://containerapps.azure.com/login**
 
 Um pouco mais sobre o Azure Container Apps Express: **https://techcommunity.microsoft.com/blog/appsonazureblog/introducing-azure-container-apps-express/4519150**
 
-Um pouco mais sobre o Azure Contaiaer Express: **https://techcommunity.microsoft.com/blog/appsonazureblog/introducing-azure-container-apps-express/4519150**
+Um pouco mais sobre o Azure Container Apps Express: **https://techcommunity.microsoft.com/blog/appsonazureblog/introducing-azure-container-apps-express/4519150**
 
-## Testes com Container App Express
+Live em que este material foi apresentado (canal **Azure na Prática**): **https://www.youtube.com/watch?v=LFW6dlZ03IY**
+
+## Testes com Container Apps Express
 
 Imagem (**docker.io**):
 
@@ -28,7 +30,6 @@ Logs em tempo real:
 Testando o MCP Server (recurso do Azure Container Apps Express) via Visual Studio Code:
 
 ![Container Apps Express 3](img/express-03.png)
-
 
 ## Testes de Escalabilidade
 
