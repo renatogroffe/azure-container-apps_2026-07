@@ -3,9 +3,26 @@ Alguns conteúdos envolvendo novidades ao trabalhar com Azure Container App (Jul
 
 Novo Portal do Azure Container Apps: **https://containerapps.azure.com/login**
 
+<<<<<<< HEAD
 Um pouco mais sobre o Azure Container Apps Express: **https://techcommunity.microsoft.com/blog/appsonazureblog/introducing-azure-container-apps-express/4519150**
+=======
+Um pouco mais sobre o Azure Contaiaer Express: **https://techcommunity.microsoft.com/blog/appsonazureblog/introducing-azure-container-apps-express/4519150**
+>>>>>>> 18a0e80490c3001f8bfc2ba43c7198ba4334ca78
 
-## Testes
+## Testes com Container App Express
+
+Imagem (**docker.io**):
+
+```
+renatogroffe/aspnetcore9-mcp-fakedata:1
+```
+
+Aplicação utilizada nos testes: **https://github.com/renatogroffe/aspnetcore9-mcp-fakedata**
+
+
+
+
+## Testes de Escalabilidade
 
 Imagem (**docker.io**):
 
